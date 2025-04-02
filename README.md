@@ -5,6 +5,7 @@
 - https://www.kali.org/tools/beef-xss/
 - https://github.com/sneakerhax/PyPhisher
 - https://github.com/KasRoudra2/PyPhisher/tree/1.6
+- https://mypublicwifi.com/publicwifi/en/index.html
 
 Knowledge is powerful, be careful how you use it!
 
